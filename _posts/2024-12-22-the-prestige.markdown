@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Turn"
+title:      "The Prestige"
 subtitle:   "A story from 2016"
 author: "Rango"
 catalog: true
