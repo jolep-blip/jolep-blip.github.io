@@ -14,7 +14,7 @@ tags:
 
 # The Pledge
 
-Each adventure is split into three parts, or acts. The first is called **"The Pledge"**: The hero introduces something ordinary—a goal, an item, a hope. But beneath the surface, it’s far from what it seems. At this point, you don’t truly know what they’ll do with it. Maybe they’re deceiving you. You’re unsure, and success seems far from guaranteed. But still, you want to see more. You want to go further.
+In every great story, the beginning is crucial. It is the moment when the hero makes a promise, a pledge that sets everything into motion. The Pledge is the foundation of the journey, where the protagonist, in their innocence or ignorance, sets out with dreams of something greater. The world is theirs to conquer, the possibilities endless. But at this stage, the audience is still blind to the true nature of the hero’s path. We are merely spectators, awed by the illusion of progress. It’s a promise made, but the questions remain: Will they succeed? Can they truly achieve the extraordinary? We only see the surface, not yet knowing the darkness that will be uncovered.
 
 ---
 
