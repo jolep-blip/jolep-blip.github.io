@@ -11,6 +11,7 @@ tags:
   - Topics
   - Pub Sub Architecture
   - Clean Coding
+  - Software
 ---
 
 # ROS Topics: The Wrong Tool for the Job (A Love Letter to Proper Abstractions)
