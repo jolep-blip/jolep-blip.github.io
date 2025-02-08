@@ -196,8 +196,6 @@ Even in non-fiction, we see this play out. **Naomi Osaka**, the Haitian-Japanese
 
 This is the paradox of rejecting belonging: it is an act of exclusion, but also one of self-liberation. It means embracing the **freedom of being undefined**, rather than contorting oneself to fit into predefined categories.
 
----
-
 ### **Freedom Beyond Definition**
 
 For many, rejecting belonging entirely is seen as dangerous. Society thrives on labels, on the comfort of knowing where people fit. The **refusal to conform** is not met with neutrality but with suspicion. Those who live outside of singular identities **challenge the very framework through which others see the world**.
