@@ -1,11 +1,11 @@
 # Site settings
-title: Rango's Blog
-SEOTitle: Rango Blog
+title: Jinan's Blog
+SEOTitle: Jinan Blog
 header-img: img/home-bg.jpg
-email: rangonomics@gmail.com
-description: "Rango's Blog Page | Learning, Lifestyle, Experiences"
-keyword: "Rango, Rango Blog, Github Pages, Web, JavaScript, React, React Native"
-url: "guilyx.github.com" # your host, for absolute URL
+email: jinanib262@gmail.com
+description: "Jinan's Blog Page | Learning, Neuroengineering, Experiences"
+keyword: "Jinan, Jinan Blog, Github Pages, Web, JavaScript, React, React Native"
+url: "jolep-blip.github.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: guilyx
-twitter_username: rangonomics
+github_username: jolep-blip
+twitter_username: n/a
 #facebook_username:  huxpro
 #linkedin_username:  huxpro
 
